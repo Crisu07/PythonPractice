@@ -1,6 +1,3 @@
-# Chris Nguyen
-# 025513031
-# CECS 174 Section #5
 # Lab Assignment #4 part 1
 # Due 02/19/20
 
