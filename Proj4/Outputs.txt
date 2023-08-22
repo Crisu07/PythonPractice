@@ -1,0 +1,31 @@
+The expected outputs should be
+For Problem 1:
+
+Insert the following numbers:
+15, 23, 32, 40, 57, 36, 88
+Output the Min Value:
+15
+
+Output the Max Value:
+88
+
+Inorder traversal of the given tree:
+15 23 32 36 40 57 88
+ Now delete 40
+
+Inorder traversal of tree
+15 23 32 36 57 88
+ Now delete 15
+
+Inorder traversal of tree
+23 32 36 57 88
+Output the new root node:
+23
+
+For Problem 2:
+
+[46, 37, 32, 22, 31, 12]
+[37, 31, 32, 22, 12]
+[66, 32, 56, 22, 31, 12, 42]
+[121, 56, 42, 32, 31, 12, 41, 22]
+[56, 32, 42, 22, 31, 12, 41]
